@@ -16,7 +16,7 @@ django-taggit==0.21.3
 django-tastypie==0.14
 git+git://github.com/matagus/django-pagination-py3.git#egg=django-pagination
 git+git://github.com/nicksergeant/django-templatetag-sugar.git#egg=django-templatetag-sugar
-gunicorn==19.6.0
+gunicorn==21.2.0
 parsedatetime==2.1
 psycopg2==2.7.3
 py-bcrypt==0.4
